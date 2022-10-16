@@ -1,0 +1,15 @@
+// Declaring Multiple Variables 
+
+#include <stdio.h>
+
+int main() {
+    int variable1, variable2; 
+    return 0;
+}
+
+#include <stdio.h>
+
+int main() {
+    int variable1, variable2 = 25; 
+    return 0;
+}

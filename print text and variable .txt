@@ -1,0 +1,14 @@
+//Print Text and Variable Together
+#include <stdio.h>
+
+int main() {
+  
+  int age = 75;
+  printf("Age: %d", age);
+
+  return 0;
+}
+
+Output
+
+Age: 75
